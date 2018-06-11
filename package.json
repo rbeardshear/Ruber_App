@@ -1,0 +1,16 @@
+{
+  "name": "RuberApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uirouter/angular": "^2.0.0",
+    "@uirouter/angularjs": "^1.0.7"
+  }
+}
